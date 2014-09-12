@@ -17,20 +17,20 @@ Please Change Two Value in MainActivity.java File :
 
 Screen Shots :
 
-[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_1.png)]
+![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_1.png)
 
 -----
 
-[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_2.png)]
+![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_2.png)
 
 -----
 
-[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_3.png)]
+![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_3.png)
 
 -----
 
-[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_4.png)]
+![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_4.png)
 
 -----
 
-[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Donate.jpg)]
+![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Donate.jpg)
