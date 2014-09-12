@@ -8,31 +8,27 @@ Cafe Bazaar Pardakht Sample Android App (IAP)
 
 Please Change Two Value in MainActivity.java File :
 1 - product_id
+<br>
 2 - base64EncodedPublicKey
 
 ----
 
 Screen Shots :
 
- 1- 
 [![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_1.png)](#screen)
 
 -----
 
- 2- 
 [![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_2.png)](#screen)
 
 -----
 
- 3- 
 [![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_3.png)](#screen)
 
 -----
 
- 4- 
 [![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Screenshot_4.png)](#screen)
 
 -----
 
- 5- 
-[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/donate.png)](#screen)
+[![IAP](https://raw.githubusercontent.com/ahmadpanah/Cafe-Bazaar-Pardakht-IAP/master/ScreenShot/Donate.png)](#screen)
